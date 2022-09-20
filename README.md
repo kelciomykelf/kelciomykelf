@@ -1,8 +1,8 @@
 ### Olá!! Eu sou o Kélcio 👋
 
-- 🌱 Estudante de front-end
-- 📫 Contate-me no email: kelciomykelf@gmail.com
-- 😄 Pronomes: ele/dele
+- 🌱 Full Stack Developer [student] 
+- 📫 contact: kelciomykelf@gmail.com
+- 😄 pronouns: he/him 
 
 <div align="center">
   <a href="https://github.com/kelciomykelf">
